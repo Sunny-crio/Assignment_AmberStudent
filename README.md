@@ -37,18 +37,18 @@ pytest test_amberstudent.py
 This will execute the test script, and the results will be displayed in the terminal.
 
 # Test Scenarios
-Task
+# Task
 Visit AmberStudent
 Search for accommodation in London
 Filter search results for Room Type - "Private Room" and Sharing - "Private Bathroom"
 Open the second search result in a new tab
 Switch to the tab and assert the title and location of the property
-Bonus Task 1
+# Bonus Task 1
 Visit AmberStudent
 Click on the search bar
 Iterate over the counties’ tab
 Verify the list of popular cities is different for all countries and no city is repeated or mentioned in more than 1 country tab. (Ignore “All” section)
-Bonus Task 2
+# Bonus Task 2
 Visit AmberStudent
 Login using Gmail
 Search for accommodation in London
