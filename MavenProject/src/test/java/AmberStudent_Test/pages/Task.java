@@ -124,9 +124,8 @@ public class Task {
 	 }
 		 public void assertTitleAndLocation(String expectedTitle, String expectedLocation) {
 		     
-			// wait.until(ExpectedConditions.titleContains(expectedTitle));
-		        // Assert title and location
-			 //String urlString=driver
+			
+		     
 		        String actualTitle = driver.getTitle();
 		        System.out.println(actualTitle);
 		       
