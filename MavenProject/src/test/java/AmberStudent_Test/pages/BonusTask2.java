@@ -25,25 +25,8 @@ public class BonusTask2 extends Task {
 	 
 	
 	 
-//	 @FindBy(xpath = "(//i[@class='icon-arrow-down'])[6]")
-//	 WebElement morefiltersicon;
-//	 //(//div[@data-testid='search-filters']//button)[6]
-//	 
-//	 @FindBy(xpath="//input[@value='private_room']")
-//	 WebElement privateroom;
-//	
-//	 @FindBy(xpath="//input[@value='private_bathroom']")
-//	 WebElement privatebathroom;
-//	 
-//	 @FindBy(xpath="//*[contains(text(), 'Show ')]")
-//	 WebElement showresults;
-//	
-//	 @FindBy(xpath="(//div[@class='search-list-inner-container']//div[@class='amber-12sbrde'])[2]")
-//	 WebElement secondsearchresult;
-//	 
-//	 @FindBy(xpath="//nav[@class='breadcrumb']/ul/li[3]/a")
-//	 WebElement ActualLocation;
-//	 
+
+	 
 	 @FindBy(xpath="(//i[@class='icon-shortlist amber-1jq04mc '])[2]")
 	 WebElement shortlistbutton;
 	 
