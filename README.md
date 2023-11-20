@@ -16,12 +16,12 @@ Selenium WebDriver
 ChromeDriver
 pytest
 Setup
-Clone the repository:
+# Clone the repository:
 bash
 Copy code
 git clone https://github.com/Sunny-crio/Assignment_AmberStudent.git
 cd amberstudent-qa-automation
-Install the required dependencies:
+# Install the required dependencies:
 bash
 Copy code
 pip install -r requirements.txt
@@ -29,14 +29,14 @@ Download ChromeDriver:
 Download the appropriate version of ChromeDriver from here.
 Place the downloaded executable in the drivers folder.
 Usage
-To run the automated tests, execute the following command in the terminal:
+# To run the automated tests, execute the following command in the terminal:
 
 bash
 Copy code
 pytest test_amberstudent.py
 This will execute the test script, and the results will be displayed in the terminal.
 
-Test Scenarios
+# Test Scenarios
 Task
 Visit AmberStudent
 Search for accommodation in London
