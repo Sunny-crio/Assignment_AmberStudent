@@ -1,8 +1,8 @@
 # Assignment_AmberStudent
-AmberStudent QA Automation Project
+# AmberStudent QA Automation Project:
 This repository contains automated test scripts for the QA assignment focused on testing various functionalities of the AmberStudent website. The tasks include searching for accommodation in London, filtering search results, interacting with search results, and performing bonus tasks related to user interaction and verification.
 
-Table of Contents
+# Table of Contents
 Requirements
 Setup
 Usage
